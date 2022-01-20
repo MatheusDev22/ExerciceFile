@@ -1,0 +1,10 @@
+Fazer um programa para ler o caminho de um arquivo.cvs 
+contedo os dados de intens vendidos. Cada item pussui um
+ nome, preco unitário e quantidade, separado por vírgula. 
+
+
+Você deve criar um novo arquivo chamado "summary.cvs",  localizado
+em uma supasta chamada "out" a partir da pasta original do 
+arquivo de origin, contendos apenas nome e o valor total 
+para aquele item (preço unitário multiplicado pela quantidade), 
+conforme exemplo.
